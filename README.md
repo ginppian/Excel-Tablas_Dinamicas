@@ -23,4 +23,16 @@ Si se agregan filas a la tabla se tendrá que actualizar manualmente el rango de
 </p>
 </li>
 
+<li>
+<p align="justify">
+Los tipos de datos de columnas deben ser iguales.
+</p>
+</li>
+
+<li>
+<p align="justify">
+Las tablas dinámicas trabajan en una instantánea de los datos, denominada caché, por lo que los datos reales no se modifican de ninguna forma.
+</p>
+</li>
+
 </ul>
