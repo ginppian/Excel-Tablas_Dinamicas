@@ -7,6 +7,10 @@ Tablas Dinámicas
 Las tablas dinámicas o tablas pivote son un excelente modo de resumir, analizar, explorar y presentar los datos.
 </p>
 
+<p align="justify">
+<i>¡SÓLO MUESTRE LOS DATOS QUE QUIERE MOSTRAR, NO MÁS!</i>
+</p>
+
 ## Condiciones
 
 <ul>
@@ -167,10 +171,13 @@ Se puede arrastrar y colocar manualmente cualquier elemento en las areas. Si ya 
 </p>
 </li>
 
-
 </ol>
 
+### Ejercicio 1
 
+<p align="justify">
+
+</p>
 
 
 
