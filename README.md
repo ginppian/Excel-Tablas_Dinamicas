@@ -51,11 +51,6 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 Los filtros nos permiten buscar subconjuntos de un conjunto de datos de una columna, este filtro afectará toda la columna.
 </p>
 
-<b>Nota:</b>
-
-<p align="justify">
-Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
-</p>
 
 <b>Pasos</b>
 
@@ -83,6 +78,12 @@ Vamos a la ficha <i>DATOS</i> en el grupo "Ordenar y filtrar" seleccionamos <i>F
 </li>
 
 </ol>
+
+<b>Desventajas:</b>
+
+<p align="justify">
+Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
+</p>
 
 ## Fuente
 <p align="justify">
