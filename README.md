@@ -159,13 +159,19 @@ Los campos <i>NUMÉRICOS</i> se agregan al área <b>Valores</b>.
 </p>
 </li>
 <ul>
+
+<li>
+<i>Resumen:</i>
+<p align="justify">
+Se puede arrastrar y colocar manualmente cualquier elemento en las areas. Si ya no quiere un elemento de la tabla dinámica, basta con que lo arrastre fuera de la lista de campos o desactive su selección. La posibilidad de reorganizar los elementos de campo es una de las características de tabla dinámica que hace que sea tan fácil cambiarle rápidamente la apariencia.
+</p>
+</li>
+
 </ol>
 
 
 
-<p align="justify">
-Se puede arrastrar y colocar manualmente cualquier elemento en las areas. Si ya no quiere un elemento de la tabla dinámica, basta con que lo arrastre fuera de la lista de campos o desactive su selección. La posibilidad de reorganizar los elementos de campo es una de las características de tabla dinámica que hace que sea tan fácil cambiarle rápidamente la apariencia.
-</p>
+
 
 ## Fuente
 <p align="justify">
