@@ -139,7 +139,7 @@ Bastará con <i>SELECCIONAR</i> el nombre de las columnas: cédula, nombres y ap
 </p>
 
 <p align="justify">
-Cuando seleccionamos cualquiera de nuestros campos, Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i> :
+Cuando seleccionamos cualquiera de nuestros campos, Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> (<i>MARCADAS CON ROJO</i>).
 </p>
 
 <ul>
