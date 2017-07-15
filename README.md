@@ -128,7 +128,7 @@ Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido,
 </p>
 
 <p align="justify">
-Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i>.
+Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i>:
 </p>
 
 <ul>
