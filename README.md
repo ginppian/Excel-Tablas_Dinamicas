@@ -204,7 +204,7 @@ Por último en la parte superior de la tabla nos aparecerá un filtro, seleccion
 </ol>
 
 <p align="center">
-<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img5.png" width="1280" height="400">
+<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img5.png" width="1280" height="380">
 </p>
 
 
