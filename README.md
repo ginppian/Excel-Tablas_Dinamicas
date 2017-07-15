@@ -135,7 +135,7 @@ Podemos ver algo como lo siguiente:
 <b>Agregando: </b>
 
 <p align="justify">
-Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido, sexo, etc.
+Bastará con <i>SELECCIONAR</i> el nombre de las columnas: cédula, nombres y apellido, sexo, etc.
 </p>
 
 <p align="justify">
