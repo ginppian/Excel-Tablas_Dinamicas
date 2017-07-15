@@ -139,12 +139,12 @@ Los campos <i>NO NUMERICOS</i> se agregan al area <b>Fila</b>
 </li>
 <li>
 <p align="justify">
-Los campos de fecha y hora se agregan al área <b>Columna</b>
+Los campos de <i>FECHA Y HORA</i> se agregan al área <b>Columna</b>
 </p>
 </li>
 <li>
 <p align="justify">
-Los campos numéricos se agregan al área <b>Valores</b>
+Los campos <i>NUMÉRICOS</i> se agregan al área <b>Valores</b>
 </p>
 </li>
 <ul>
