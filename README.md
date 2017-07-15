@@ -4,7 +4,7 @@ Tablas Dinámicas
 ## Definición
 
 <p align="justify">
-Las tablas dinámicas son un excelente modo de resumir, analizar, explorar y presentar los datos.
+Las tablas dinámicas o tablas pivote son un excelente modo de resumir, analizar, explorar y presentar los datos.
 </p>
 
 ## Condiciones
@@ -46,6 +46,24 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 ## Desarrollo
 
 ### Filtros
+
+<p align="justify">
+Los filtros nos permiten buscar subconjuntos de un conjunto de datos de una columna, este filtro afectará toda la columna.
+</p>
+
+<b>Nota:</b>
+
+<p align="justify">
+Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
+</p>
+
+<ol>
+	
+<li>
+<b>Paso 1</b>
+</li>
+
+</ol>
 
 ## Fuente
 <p align="justify">
