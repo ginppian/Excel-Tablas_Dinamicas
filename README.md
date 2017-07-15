@@ -60,7 +60,24 @@ Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva ta
 <ol>
 	
 <li>
-<b>Paso 1</b>
+<i>Seleccionamos la tabla:</i>
+<p>	
+	Pulsando <i>CTRL + SHIFT + SPACE</i>
+</p>
+<p>
+	PS: Podríamos seleccionar sólo los títulos o cabeceras de la tabla.
+</p>
+</li>
+
+<li>
+<i>Generamos filtros:</i>
+<p>
+Vamos a la ficha <i>DATOS</i> en el grupo "Ordenar y filtrar" seleccionamos <i>FILTRO</i>.
+</p>
+
+<p>
+	PS: En la ficha <i>INICIO</i> podríamos seleccionar <i>DAR FORMATO COMO TABLA</i>. 
+</p>
 </li>
 
 </ol>
