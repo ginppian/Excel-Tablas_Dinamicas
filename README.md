@@ -123,12 +123,14 @@ Podemos ver algo como lo siguiente:
 </p>
 </li>
 
+<p align="justify">
 <ul>
 <li><i>Filtros</i></li>
 <li><i>Columnas</i></li>
 <li><i>Filas</i></li>
 <li><i>Valores</i></li>
 </ul>
+</p>
 
 <p align="justify">
 Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido, sexo, etc.
