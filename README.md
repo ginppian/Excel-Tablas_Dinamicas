@@ -57,6 +57,7 @@ Los filtros nos permiten buscar subconjuntos de un conjunto de datos de una colu
 Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
 </p>
 
+<b>Pasos</p>
 <ol>
 	
 <li>
