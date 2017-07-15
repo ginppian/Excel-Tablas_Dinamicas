@@ -84,7 +84,7 @@ Vamos a la ficha <i>DATOS</i> en el grupo "Ordenar y filtrar" seleccionamos <i>F
 </ol>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img2.png" width="831" height="385">
+	<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img2.png" width="831" height="350">
 </p>
 
 <b>Desventajas:</b>
