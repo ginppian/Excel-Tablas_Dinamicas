@@ -42,3 +42,8 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 <p align="justify">
 <a href="https://support.office.com/es-es/article/Crear-una-tabla-din%C3%A1mica-para-analizar-datos-de-una-hoja-de-c%C3%A1lculo-a9a84538-bfe9-40a9-a8e9-f99134456576">Tablas Dinámicas Microsoft</a>
 </p>
+
+<p align="justify">
+<a href="https://www.youtube.com/watch?v=AIipB0FFw7Y&t=1s"
+</a>
+</p>
