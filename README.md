@@ -176,7 +176,7 @@ Se puede arrastrar y colocar manualmente cualquier elemento en las areas. Si ya 
 ### Ejercicio 1
 
 <p align="justify">
-<i>¿CUÁNTO GANAN LOS INGENIEROS EN DESGLOSE?</i>
+<i>¿CUÁNTO GANAN LOS INGENIEROS EN UN DESGLOSE?</i>
 </p>
 
 <ol>
@@ -204,7 +204,7 @@ Por último en la parte superior de la tabla nos aparecerá un filtro, seleccion
 </ol>
 
 <p align="center">
-<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img5.png" width="1280" height="506">
+<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img5.png" width="1280" height="450">
 </p>
 
 
