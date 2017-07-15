@@ -125,10 +125,10 @@ Podemos ver algo como lo siguiente:
 
 <p align="justify">
 <ul>
-<li><i>Filtros</i></li>
-<li><i>Columnas</i></li>
-<li><i>Filas</i></li>
-<li><i>Valores</i></li>
+<li><i>Filtros:</i><p>Filtrara por categoría.</p></li>
+<li><i>Columnas:</i><p>Muestra datos de forma horizontal, es decir, lo distribuye en columnas.</p></li>
+<li><i>Filas:</i><p>Despliega una columna de manera vertical, si hay más campos los anida.</p></li>
+<li><i>Valores:</i><p>Permite hacer la suma, max, min, prometio, etc. de toda la tabla.</p></li>
 </ul>
 </p>
 
