@@ -176,8 +176,40 @@ Se puede arrastrar y colocar manualmente cualquier elemento en las areas. Si ya 
 ### Ejercicio 1
 
 <p align="justify">
-
+<i>¿CUÁNTO GANAN LOS INGENIEROS EN DESGLOSE?</i>
 </p>
+
+<ol>
+<li>
+<p align="justify">
+Se selecciona el campo <i>NOMBRES Y APELLIDOS</i> y se agrega a <i>Fila</i>.
+</p>
+</li>
+
+<li>
+<p align="justify">
+Se selecciona el campo <i>CARGO</i> y se agrega a <i>Filtros</i>.
+</p>
+</li>
+
+<li>
+<p align="justify">
+Se selecciona el campo <i>SUELDO BÁSICO</i> y se agrega a <i>Valores</i>.
+</p>
+</li>
+
+<p align="justify">
+Por último en la parte superior de la tabla nos aparecerá un filtro, seleccionamos el cargo <i>INGENIERO</i>.
+</p>
+</ol>
+
+<p align="center">
+<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img5.png" width="1280" height="506">
+</p>
+
+
+
+
 
 
 
