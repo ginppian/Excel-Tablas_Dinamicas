@@ -37,6 +37,11 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 
 </ul>
 
+## Material Apoyo
+
+<p align ="justify">
+<a href="">Ejercicio</a>
+</p>
 
 ## Fuente
 <p align="justify">
