@@ -123,6 +123,31 @@ Podemos ver algo como lo siguiente:
 </p>
 </li>
 
+<p align="justify">
+Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido, sexo, etc.
+</p>
+
+<p align="justify">
+Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i>.
+</p>
+
+<ul>
+<li>
+<p align="justify">
+Los campos <i>NO NUMERICOS</i> se agregan al area <b>Fila</b>
+</p>
+</li>
+<li>
+<p align="justify">
+Los campos de fecha y hora se agregan al área <b>Columna</b>
+</p>
+</li>
+<li>
+<p align="justify">
+Los campos numéricos se agregan al área <b>Valores</b>
+</p>
+</li>
+<ul>
 </ol>
 
 ## Fuente
