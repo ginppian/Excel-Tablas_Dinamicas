@@ -148,6 +148,13 @@ Los campos <i>NUMÉRICOS</i> se agregan al área <b>Valores</b>.
 </p>
 </li>
 <ul>
+
+<ul>
+<li><i>Filtros</i></li>
+<li><i>Columnas</i></li>
+<li><i>Filas</i></li>
+<li><i>Valores</i></li>
+</ul>
 </ol>
 
 <p align="justify">
