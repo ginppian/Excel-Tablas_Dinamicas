@@ -45,7 +45,7 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 
 ## Desarrollo
 
-#### Filtros
+### Filtros
 
 ## Fuente
 <p align="justify">
