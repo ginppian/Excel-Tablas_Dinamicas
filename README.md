@@ -128,23 +128,23 @@ Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido,
 </p>
 
 <p align="justify">
-Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i>:
+Excel de manera <i>AUTOMÁTICA</i> agrega los campos a nuestras <b>areas</b> <i>MARCADAS CON ROJO</i> :
 </p>
 
 <ul>
 <li>
 <p align="justify">
-Los campos <i>NO NUMERICOS</i> se agregan al area <b>Fila</b>
+Los campos <i>NO NUMERICOS</i> se agregan al area <b>Fila</b>.
 </p>
 </li>
 <li>
 <p align="justify">
-Los campos de <i>FECHA Y HORA</i> se agregan al área <b>Columna</b>
+Los campos de <i>FECHA Y HORA</i> se agregan al área <b>Columna</b>.
 </p>
 </li>
 <li>
 <p align="justify">
-Los campos <i>NUMÉRICOS</i> se agregan al área <b>Valores</b>
+Los campos <i>NUMÉRICOS</i> se agregan al área <b>Valores</b>.
 </p>
 </li>
 <ul>
