@@ -90,8 +90,26 @@ Vamos a la ficha <i>DATOS</i> en el grupo "Ordenar y filtrar" seleccionamos <i>F
 <b>Desventajas:</b>
 
 <p align="justify">
-Los <i>filtros</i> sólo ocultan los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
+Los <i>filtros</i> sólo <b>ocultan</b> los valores de la tabla no generan una nueva tabla, a diferencia de las tablas dinámicas.
 </p>
+
+### Tabla Dinámica
+
+<ol>	
+
+<li>
+<i>Región</i>
+<p align="justify">
+Seleccionamos toda la región incluyendo títulos/cabeceras de la tabla o nos posicionaros dentro de la tabla y Excel reconocerá automáticamente la región cuando insertemos la tabla dinámica.</p>
+</li>
+
+<li>
+<i>Insertar</i>
+<p align="justify">
+Ya seleccionado la región nos vamos a: <i>INSERTAR</i> y en el grupo "Tablas" seleccionamos <i>TABLA DINÁMICA</i>
+</p>
+</li>
+</ol>
 
 ## Fuente
 <p align="justify">
