@@ -132,6 +132,8 @@ Podemos ver algo como lo siguiente:
 </ul>
 </p>
 
+<b>Agregando: </b>
+
 <p align="justify">
 Bastará con seleccionar el nombre de las columnas: cédula, nombres y apellido, sexo, etc.
 </p>
