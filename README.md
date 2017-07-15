@@ -83,6 +83,10 @@ Vamos a la ficha <i>DATOS</i> en el grupo "Ordenar y filtrar" seleccionamos <i>F
 
 </ol>
 
+<p align="center">
+	<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img1.png" width="687" height="385">
+</p>
+
 <b>Desventajas:</b>
 
 <p align="justify">
