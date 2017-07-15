@@ -109,14 +109,14 @@ Seleccionamos toda la región incluyendo títulos/cabeceras de la tabla o nos po
 Ya seleccionado la región nos vamos a: <i>INSERTAR</i> y en el grupo "Tablas" seleccionamos <i>TABLA DINÁMICA</i> y nos mostrará algo como:
 </p>
 <p align="center">
-<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img3.png" width="943" height="578">
+<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img3.png" width="943" height="500">
 </p>
 </li>
 
 <li>
 <i>Implementación</i>
 <p align="center">
-<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img4.png" width="1220" height="649">
+<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img4.png" width="1220" height="600">
 </p>
 </li>
 
