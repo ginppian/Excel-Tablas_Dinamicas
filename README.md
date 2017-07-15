@@ -115,6 +115,9 @@ Ya seleccionado la región nos vamos a: <i>INSERTAR</i> y en el grupo "Tablas" s
 
 <li>
 <i>Implementación</i>
+<p align="justify">
+Podemos ver algo como lo siguiente:
+</p>
 <p align="center">
 <img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img4.png" width="1220" height="430">
 </p>
