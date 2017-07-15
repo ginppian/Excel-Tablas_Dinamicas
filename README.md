@@ -46,6 +46,7 @@ Las tablas dinámicas trabajan en una instantánea de los datos, denominada cach
 <p align="center">
 	<img src="https://github.com/ginppian/Excel-Tablas_Dinamicas/blob/master/img/img1.png" width="687" height="385">
 </p>
+
 ## Desarrollo
 
 ### Filtros
